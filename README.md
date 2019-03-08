@@ -1,4 +1,4 @@
-# web-worker-demo
+# web-workers-demo
 
 Demonstrates the impact of outsourcing computation to a Web Worker on usability.
 
